@@ -1,0 +1,13 @@
+item.interium_test.name=Inertium ingot
+item.interium_sword.name=Inertium Sword
+item.interium_pickaxe.name=Inertium Pickaxe
+item.interium_axe.name=Inertium Axe
+
+item.inertium_helmet.name=Inertium Helmet
+item.inertium_chesplate.name=Inertium Chesplate
+item.inertium_leggings.name=Inertium Leggings
+item.inertium_boots.name=Inertium Boots
+
+itemGroup.interiumtabs=All Item for this Mods !
+
+tile.interium_block.name=Inertium block

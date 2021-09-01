@@ -1,0 +1,14 @@
+item.interium_test.name=l'Ingot Inertium
+item.interium_sword.name=Epee en Inertium
+item.interium_pickaxe.name=Pioche en Inertium
+item.interium_axe.name=Hache en Inertium
+
+item.inertium_helmet.name=Casque en Inertium
+item.inertium_chesplate.name=Plastron en Inertium
+item.inertium_leggings.name=Jambiere en Inertium
+item.inertium_boots.name=Bottes en Inertium
+
+
+itemGroup.interiumtabs=Tout les items du mods !
+
+tile.interium_block.name=Block Inertium
