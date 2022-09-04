@@ -54,7 +54,7 @@ public class Main
         System.out.println("#################");
         System.out.println("");
         System.out.println("Mod Dev pour faire un test...");
-        System.out.println("By: AnewPlayerFr");
+        System.out.println("By: AcTh2");
         System.out.println("^-^");
         System.out.println("");
         System.out.println("#################");
