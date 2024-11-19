@@ -22,12 +22,7 @@ public class Main
 
 
     public static final CreativeTabs interTabs = new InteriumTabs("interiumtabs");
-
-    
-    
-
-
-	private World worldIn;
+    private World worldIn;
 
 
     @Mod.EventHandler
@@ -48,14 +43,11 @@ public class Main
     @Mod.EventHandler
     public void postInit(FMLPostInitializationEvent event)
     {    	
-
     	//Welcome
-    	
         System.out.println("#################");
         System.out.println("");
-        System.out.println("Mod Dev pour faire un test...");
+        System.out.println("Mod Dev");
         System.out.println("By: AcTh2");
-        System.out.println("^-^");
         System.out.println("");
         System.out.println("#################");
         
